@@ -1,1 +1,26 @@
 # proto-anim-ft-dialogue
+
+A lightweight dialogue box implementation using vanilla JavaScript, HTML5, and CSS3. Designed as an educational project for web development fundamentals.
+
+![Dialogue System Preview](./preview.png) *Replace with your actual screenshot*
+
+## Features
+- Dynamic text display
+- Responsive container
+- Easy-to-modify dialogue sequences
+
+## Quick Start
+1. Clone this repository
+2. Open `index.html` in any modern browser
+3. Observe the sample dialogue interaction
+
+## Change the Dialogue
+Edit the `messages` list in `story.js`:
+```javascript
+const messages = [
+  "Hello, world!",
+  "This is so easy.",
+  "You can do it too!"
+];
+```
+
