@@ -1,9 +1,10 @@
 .panel {
-  width: 300px;
+  width: 10rem;
+  height: 15rem;
   margin: 50px auto; /* Centra el panel */
   padding: 20px;
   background-color: white;
-  border: 1rem solid black;
+  border: 0.2rem solid black;
 }
 .words {
   font-size: 18px;
