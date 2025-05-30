@@ -3,6 +3,7 @@
   margin: 50px auto; /* Centra el panel */
   padding: 20px;
   background-color: white;
+  border: 1rem solid black;
 }
 .words {
   font-size: 18px;
