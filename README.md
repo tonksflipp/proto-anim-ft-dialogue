@@ -2,8 +2,6 @@
 
 A lightweight dialogue box implementation using vanilla JavaScript, HTML5, and CSS3. Designed as an educational project for web development fundamentals.
 
-![Dialogue System Preview](./preview.png) *Replace with your actual screenshot*
-
 ## Features
 - Dynamic text display
 - Responsive container
