@@ -3,7 +3,8 @@
   width: 8rem;
 }
 .dialogue{
-
+width: 6rem;
+border-color: black;
 background-color: red;
 }
 .img{
