@@ -1,13 +1,26 @@
 .panel {
   width: 40rem;
   height: 30rem;
-  margin: 50px auto; /* Centra el panel */
+  margin: 50px auto;
   padding: 20px;
   background-color: white;
   border: 1px solid black;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* Empuja el contenido hacia abajo */
+  position: relative;
 }
+
+.dialogue {
+  width: 100%;
+  border: 1px solid black;
+}
+
 .words {
+  width: 20rem;
+  height: 8rem;
   font-size: 18px;
   color: black;
-  border: 1px solid black;
+  
 }
