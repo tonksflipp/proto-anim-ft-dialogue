@@ -1,6 +1,22 @@
-const phrases = [
-  "Hola, ¿cómo estás?",
-  "Este es el segundo mensaje.",
-  "Y este es el tercero.",
-  "¡Fin del diálogo!"
+let phrases = [
+  "I don't know if anyone will hear this, but I need to tell it...",
+  "There was a time when our civilization was brilliant. Creative. United...",
+  "We grew fast—faster than we knew how to handle...",
+  "We started forgetting why we did things. We just kept pushing forward...",
+  "Technology wasn't the problem. It was what we did with it...",
+  "The most powerful stopped listening. And the rest of us stopped speaking...",
+  "Everything became about competition. Control. Noise...",
+  "I remember looking at the sky and feeling pride. Later, I only looked at it with fear...",
+  "In the end, we didn't even know what we were fighting against...",
+  "When the first cities fell, I didn't feel surprised. Just empty...",
+  "I was a soldier. But we didnt even know who we were protecting...",
+  "I survived out of habit. Not courage...",
+  "The last time I saw my planet, it was just a shattered shadow floating in the void...",
+  "I wandered through space for a long time. Losing more than I found...",
+  "Until I found signs of life. Yours...",
+  "Earth reminds me of what we once were. And that scares me...",
+  "Maybe you still have time...",
+  "I dont want to give lessons. No one should anymore...",
+  "I just wanted to leave this record. In case someone ever wonders how a world breaks...",
+  "And how, sometimes, someone is still alive to tell it..."
 ];
