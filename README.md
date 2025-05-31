@@ -6,6 +6,7 @@ A lightweight dialogue box implementation using vanilla JavaScript, HTML5, and C
 - Dynamic text display
 - Responsive container
 - Easy-to-modify dialogue sequences
+- Advance through dialogue by pressing the SPACE key
 
 ## Quick Start
 1. Clone this repository
