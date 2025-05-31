@@ -9,14 +9,14 @@ let phrases = [
   "I remember looking at the sky and feeling pride. Later, I only looked at it with fear...",
   "In the end, we didn't even know what we were fighting against...",
   "When the first cities fell, I didn't feel surprised. Just empty...",
-  "I was a soldier. But we didnt even know who we were protecting...",
+  "I was a soldier. But we didn't even know who we were protecting...",
   "I survived out of habit. Not courage...",
   "The last time I saw my planet, it was just a shattered shadow floating in the void...",
   "I wandered through space for a long time. Losing more than I found...",
   "Until I found signs of life. Yours...",
   "Earth reminds me of what we once were. And that scares me...",
   "Maybe you still have time...",
-  "I dont want to give lessons. No one should anymore...",
+  "I don't want to give lessons. No one should anymore...",
   "I just wanted to leave this record. In case someone ever wonders how a world breaks...",
   "And how, sometimes, someone is still alive to tell it..."
 ];

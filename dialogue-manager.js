@@ -16,7 +16,6 @@ function typeText(text) {
   }, 40);
 }
 
-
 typeText(phrases[index]);
 
 document.onkeydown = function(event) {
