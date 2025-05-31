@@ -1,26 +1,38 @@
+body {
+   padding: 3em;
+   font-family: 'Sora', monospace;
+}
+
 .panel {
-  width: 40rem;
-  height: 30rem;
+  width: 70rem;
+  height: 40rem;
   margin: 50px auto;
   padding: 20px;
-  background-color: white;
-  border: 1px solid black;
-  
+  background: #3498db;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end; /* Empuja el contenido hacia abajo */
+  justify-content: flex-end;
   position: relative;
 }
 
 .dialogue {
-  width: 100%;
-  border: 1px solid black;
-}
+  height: 38%;
+  width: 90%;
+  margin: 2rem auto;
+  background-color: white;
+  position: relative;
+  }
 
 .words {
-  width: 20rem;
   height: 8rem;
-  font-size: 18px;
+  font-size: 2.5vw;
   color: black;
+  position: relative;
+  margin-top: 2rem;
+  text-align: center;
   
+}
+.button{
+  width: 6rem;
+  height: 3rem;
 }
