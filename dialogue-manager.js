@@ -1,7 +1,7 @@
 let dialogue = document.getElementById("words");
 let index = 0;
 
-// Función que escribe el texto con efecto de tipeo
+
 function typeText(text) {
   let i = 0;
   dialogue.textContent = "";
@@ -16,7 +16,7 @@ function typeText(text) {
   }, 40);
 }
 
-// Mostrar la primera frase con el efecto
+
 typeText(phrases[index]);
 
 document.onkeydown = function(event) {
