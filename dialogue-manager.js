@@ -1,0 +1,1 @@
+let dialogue = document.getElementById("words");
