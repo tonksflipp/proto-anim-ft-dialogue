@@ -1,14 +1,13 @@
 body {
-   padding: 3em;
    font-family: 'Sora', monospace;
 }
 
 .panel {
-  width: 70rem;
-  height: 40rem;
+  width: 76vw;
+  height: 40vw;
   margin: 50px auto;
   padding: 20px;
-  background: #3498db;
+  background: #555151;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -16,23 +15,17 @@ body {
 }
 
 .dialogue {
-  height: 38%;
-  width: 90%;
-  margin: 2rem auto;
+  height: 33%;
+  width: 99%;
   background-color: white;
   position: relative;
   }
 
 .words {
-  height: 8rem;
   font-size: 2.5vw;
   color: black;
   position: relative;
-  margin-top: 2rem;
-  text-align: center;
+  text-align: left;
+  margin: 1rem;
   
-}
-.button{
-  width: 6rem;
-  height: 3rem;
 }
