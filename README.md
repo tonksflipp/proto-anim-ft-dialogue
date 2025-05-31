@@ -1,6 +1,6 @@
 # proto-anim-ft-dialogue
 
-A lightweight dialogue box implementation using vanilla JavaScript, HTML5, and CSS3. Designed as an educational project for web development fundamentals.
+A lightweight dialogue box implementation using JavaScript, HTML, and CSS. Designed as an educational project for web development fundamentals.
 
 ## Features
 - Dynamic text display
