@@ -2,9 +2,6 @@
 
 A lightweight dialogue box implementation using JavaScript, HTML, and CSS. Designed as an educational project for web development fundamentals.
 
-![Demo](https://github.com/tonksflipp/proto-anim-ft-dialogue/blob/main/img.png?raw=true)
-[![Ver en CodePen](https://img.shields.io/badge/CodePen-Ver%20demo-black?logo=codepen&style=for-the-badge)](https://codepen.io/tonksflipp/pen/YPXqVRY)
-
 ## Features
 - Dynamic text display
 - Responsive container
@@ -25,3 +22,8 @@ const messages = [
   "You can do it too!"
 ];
 ```
+## Demo visual
+
+![Demo](https://github.com/tonksflipp/proto-anim-ft-dialogue/blob/main/img.png?raw=true)
+[![Ver en CodePen](https://img.shields.io/badge/CodePen-Ver%20demo-black?logo=codepen&style=for-the-badge)](https://codepen.io/tonksflipp/pen/YPXqVRY)
+
